@@ -6,13 +6,19 @@ Aunque lo ideal es que lo calcules automáticamente mirando los apuntes, puedes 
 los resultados son correctos mirando algunos de los TIPS que se detallan más abajo.
 
 **"*"**
+=======
 
 **".container"**
+================
 
 **".container href"**
+=====================
 
 **"h1"**
+========
 
 **"#titulo"**
+=============
 
 **"!important"**
+================
