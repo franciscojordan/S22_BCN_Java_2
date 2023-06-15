@@ -1,0 +1,41 @@
+div{
+    border: solid black 1px;
+}
+
+.round{
+    background-color: greenyellow;
+    height: 20px;
+    width: 20px;
+    text-align: center;
+    border-radius: 10px;
+    position: absolute;
+}
+
+.square{
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    position: relative;
+    margin:50px;    
+}
+.top-left{
+    top: 0px;
+    left: 0px;
+    transform: translate(-50%, -50%);
+
+}
+.top-right{
+    top: 0;
+    right: 0;
+    transform: translate(50%, -50%);
+}
+.bottom-left{
+    bottom: 0;
+    left: 0;
+    transform: translate(-50%, 50%);
+}
+.bottom-right{
+    bottom: 0;
+    right: 0;
+    transform: translate(50%, 50%);
+}

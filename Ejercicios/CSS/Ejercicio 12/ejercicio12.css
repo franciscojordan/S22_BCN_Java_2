@@ -1,0 +1,100 @@
+.diana {
+    width: 300px;
+    height: 300px;
+    position: relative;
+    background-color: lightgray;
+    border-radius: 50%;
+    margin: 50px;
+}
+.circle {
+    position: absolute;
+    width: 90%;
+    height: 90%;
+    border-radius: 50%;
+    top: 5%;
+    left: 5%;
+}
+.line{
+    position: absolute;
+    border: solid 1.5px black;
+}
+.horizontal{
+    width: 89.40%;
+    top: 49.77%;
+    left: 5%;
+}
+.vertical{
+    height: 89.40%;
+    top: 5%;
+    left: 49.77%;
+}
+.red {
+    background-color: red;
+}
+
+.white {
+    background-color: white;
+}
+
+.outer{
+    width: 90%;
+    height: 90%;
+    top: 5%;
+    left: 5%;
+}
+
+.outer2{
+    width: 87.5%;
+    height: 87.5%;
+    top: 6.25%;
+    left: 6.25%;
+}
+
+.first{
+    width: 85%;
+    height: 85%;
+    top: 7.5%;
+    left: 7.5%;
+}
+.second {
+    width: 72.5%;
+    height: 72.5%;
+    top: 13.75%;
+    left: 13.75%;
+}
+.third{
+    width: 62.5%;
+    height: 62.5%;
+    top: 18.75%;
+    left: 18.75%;
+}
+.fourth{
+    width: 52.5%;
+    height: 52.5%;
+    top: 23.75%;
+    left: 23.75%;
+}
+.fifth{
+    width: 42.5%;
+    height: 42.5%;
+    top: 28.75%;
+    left: 28.75%;
+}
+.sixth{
+    width: 32.5%;
+    height: 32.5%;
+    top: 33.75%;
+    left: 33.75%;
+}
+.seventh{
+    width: 22.5%;
+    height: 22.5%;
+    top: 38.75%;
+    left: 38.75%;
+}
+.eighth{
+    width: 12.5%;
+    height: 12.5%;
+    top: 43.75%;
+    left: 43.75%;
+}
