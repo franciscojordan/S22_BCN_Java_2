@@ -1,0 +1,10 @@
+#div1 {
+    background-color: red;
+    height: 150px;
+    width: 150px;
+    margin: 50px;
+    outline: dotted 15px greenyellow;
+}
+#div1:hover {
+    outline: dotted 5px black;
+}

@@ -1,0 +1,12 @@
+div{
+    border-right: dashed 10px blue;
+    border-top: dotted thick green;
+    border-left: double 10px black;
+    border-bottom: solid thick red;
+    width: 500px;
+    width: 300px;
+    padding: 60px;
+}
+body{
+    margin: 70px;
+}

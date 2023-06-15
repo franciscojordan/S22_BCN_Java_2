@@ -1,0 +1,29 @@
+#left{
+    text-align: left;
+}
+
+#center{
+    text-align: center;
+}
+
+#right{
+    text-align: right;
+}
+
+p{
+    background-color: lightgray;
+    border: solid thin black;
+    height: 30px;
+    width: 200px;
+    padding-top: 12px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+body{
+    background-color: #fee2ba;
+}
+
+#container{
+    margin: 30px;
+}
