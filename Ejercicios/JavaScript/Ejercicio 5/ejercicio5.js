@@ -40,3 +40,27 @@ switch (mes) {
         console.error("ERROR: Més inválido (del 1 al 12)");
         break;
 }
+
+let numeroStr = "Cinco" // Introducir numero del 1 al 5 en String
+let numeroInt;
+switch (numeroStr.toLowerCase()) {
+    case "uno":
+        numeroInt = 1;
+        break;
+    case "dos":
+        numeroInt = 2;
+        break;
+    case "tres":
+        numeroInt = 3;
+        break;
+    case "cuatro":
+        numeroInt = 4;
+        break;
+    case "cinco":
+        numeroInt = 5;
+        break;
+    default:
+        console.error("ERROR: Numero inválido (del 1 al 5)");
+        break;
+}
+console.log(numeroInt);
