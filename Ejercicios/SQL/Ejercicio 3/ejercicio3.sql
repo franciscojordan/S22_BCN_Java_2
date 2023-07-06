@@ -18,5 +18,3 @@ create table if not exists Artist (
 	idArtist int primary key AUTO_INCREMENT,
 	artistName varchar(255)
 );
-
-select * from Artist;
