@@ -2,7 +2,7 @@ import java.lang.Math;
 
 public class Ejercicio11 {
     public static void blancoONegro() {
-        int numero = (int) (Math.round(Math.random()));
+        byte numero = (byte) (Math.round(Math.random()));
         if (numero != 0) {
             System.out.println("Negro");
         } else {
